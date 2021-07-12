@@ -1735,5 +1735,12 @@
         "author": "Greg Zuro",
         "description": "Render Kroki diagrams.",
         "repo": "gregzuro/obsidian-kroki"
+    },
+    {
+        "id": "obsidian-add-timestamp-plugin",
+        "name": "Add Timestamp",
+        "author": "bonkboykz",
+        "description": "This plugin adds command 'Add Timestamp' which prepends current timestamp to the title of the document.",
+        "repo": "https://github.com/bonkboykz/obsidian-add-timestamp-plugin"
     }
 ]
